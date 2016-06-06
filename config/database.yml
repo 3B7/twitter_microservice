@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: nr_twitterapp_dev
+  username: nurelm
+  password: 
+  host: localhost

@@ -1,0 +1,15 @@
+source "https://rubygems.org"
+
+gem "sinatra"
+gem "sinatra-contrib"
+gem "activerecord"
+gem "sinatra-activerecord"
+gem "redis"
+gem "sidekiq"
+gem "pg"
+gem "rake"
+gem "rufus-scheduler"
+gem 'json'
+gem "twitter"
+gem "byebug"
+gem "sinatra-cross_origin", "~> 0.3.1"
