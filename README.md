@@ -1,6 +1,6 @@
-# NR TWITTERAPP API
+# TWITTER + Sinatra APP API
 
-This is the Microservice Endpoint that fetches and saves tweets from Twitters API. 
+This is the Microservice Endpoint that fetches and saves certain tweets from Twitters API. 
 
 [live site](https://whispering-ravine-24969.herokuapp.com/request_access)
 
